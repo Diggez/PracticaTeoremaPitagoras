@@ -35,7 +35,7 @@ public class TrianguloRectangulo {
 	 * @return el area de un TrianguloRectangulo en metros
 	 */
 	public double area() {
-		double area=Math.round((this.a*this.b)/2);
+		double area=(this.a*this.b)/2;
 	return area;
 	}
 	/**
