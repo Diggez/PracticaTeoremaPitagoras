@@ -68,8 +68,8 @@ public class TrianguloRectangulo {
 	
 	public String toString() {
 		String mensaje="Cateto A: "+this.a+
-					"Cateto B: " + this.b+
-					"Hipotenusa: "+ this.c;
+					"\nCateto B: " + this.b+
+					"\nHipotenusa: "+ this.c;
 	return mensaje;
 	}
 }
